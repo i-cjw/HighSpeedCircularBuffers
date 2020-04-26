@@ -1,0 +1,8 @@
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\bin\Debug\netcoreapp3.1\HighSpeedCircularBuffer.deps.json
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\bin\Debug\netcoreapp3.1\HighSpeedCircularBuffer.dll
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\bin\Debug\netcoreapp3.1\HighSpeedCircularBuffer.pdb
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netcoreapp3.1\HighSpeedCircularBuffer.fsprojAssemblyReference.cache
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netcoreapp3.1\HighSpeedCircularBuffer.AssemblyInfoInputs.cache
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netcoreapp3.1\HighSpeedCircularBuffer.AssemblyInfo.fs
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netcoreapp3.1\HighSpeedCircularBuffer.dll
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netcoreapp3.1\HighSpeedCircularBuffer.pdb

@@ -1,0 +1,3 @@
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netstandard2.0\HighSpeedCircularBuffer.fsprojAssemblyReference.cache
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netstandard2.0\HighSpeedCircularBuffer.AssemblyInfoInputs.cache
+C:\Users\CJW\source\repos\HighSpeedCircularBuffer\obj\Debug\netstandard2.0\HighSpeedCircularBuffer.AssemblyInfo.fs

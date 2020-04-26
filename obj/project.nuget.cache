@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SrcfiIRr67xE3hRxyX2Njt8jsrGhBcNTBo0DqburSsi2JGG5Jm+D/50DfilxnjkkP2ShjgLAyHKkLSEIFSKtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CJW\\source\\repos\\HighSpeedCircularBuffer\\HighSpeedCircularBuffer.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CJW\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
